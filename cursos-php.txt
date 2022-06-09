@@ -7,3 +7,5 @@ PHP parte 2
 PHP Streams
 PHP parte 3
 
+
+Curso de PDO: Persistencia de acesso ao banco de dados com php
